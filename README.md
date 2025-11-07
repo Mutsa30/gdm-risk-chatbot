@@ -66,6 +66,4 @@ Data Analyst | Aspiring Data Scientist
 
 ---
 
-## 🔗 Project Report
-[Download Full Research Project (PDF)](https://drive.google.com/yourlinkhere)
 
